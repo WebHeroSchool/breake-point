@@ -1,0 +1,43 @@
+@media screen and (min-width:1200px) {
+    body {
+      font-size: 110%;
+    }
+}
+
+@media screen and (min-width:1400px) {
+    html {
+      padding: 15%;
+    }
+}
+
+@media screen and (min-width:1600px) {
+    body {
+    font-size: 125%;
+    }
+    }
+
+@media screen and (min-width:1800px) {
+    html {
+    padding: 20%;
+    }
+    }
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.article__text {
+  font-family: 'Lora', serif;
+}
+
+@media (min-width: 320px) {
+  .header__title {
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 641px) {
+  .header__title {
+    font-size: 32px;
+  }
+}
